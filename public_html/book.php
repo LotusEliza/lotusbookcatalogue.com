@@ -1,11 +1,8 @@
 <?php
 
 require_once ('DB_MySql.php');
-require_once ('DB_PDO.php');
 require_once('choose_DB_driver.php');
 
-
-//TEst branch
 
 class Book
 {
