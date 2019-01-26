@@ -6,7 +6,7 @@
  * Time: 1:29 PM
  */
 
-require_once ('config.php');
+// require_once ('config.php');
 require_once('DB_Interface.php');
 
 
