@@ -64,8 +64,4 @@ interface DB_Interface
      */
     public function deleteIJ($bookid, $authorid);
 
-
-//    /** @var null resource */
-//    protected $connection = NULL;
-
 }
