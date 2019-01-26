@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cd7483f-8053-402a-803e-8f181292dfba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public_html/book.php" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/book.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/DB_Abstract.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/DB_MySql.php" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/DB_MySql.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/DB_PDO.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/Singleton.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/choose_DB_driver.php" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/choose_DB_driver.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/config.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,14 +37,14 @@
     <session id="129179678">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="141" />
+          <entry key="project.closed" value="144" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.103" value="1" />
           <entry key="project.open.time.108" value="1" />
           <entry key="project.open.time.118" value="1" />
-          <entry key="project.open.time.12" value="3" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.12" value="4" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.139" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.148" value="1" />
@@ -96,7 +102,7 @@
           <entry key="project.open.time.9" value="1" />
           <entry key="project.open.time.92" value="1" />
           <entry key="project.open.time.98" value="1" />
-          <entry key="project.opened" value="165" />
+          <entry key="project.opened" value="167" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -106,7 +112,7 @@
           <entry key="html" value="2" />
           <entry key="htpasswd" value="6" />
           <entry key="js" value="1" />
-          <entry key="php" value="312" />
+          <entry key="php" value="322" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -114,7 +120,7 @@
           <entry key="CSS" value="2" />
           <entry key="HTML" value="2" />
           <entry key="JavaScript" value="1" />
-          <entry key="PHP" value="312" />
+          <entry key="PHP" value="322" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="htaccess" value="4" />
         </counts>
@@ -124,13 +130,13 @@
           <entry key="dummy" value="13" />
           <entry key="htaccess" value="30" />
           <entry key="html" value="12" />
-          <entry key="php" value="9607" />
+          <entry key="php" value="9685" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="12" />
-          <entry key="PHP" value="9606" />
+          <entry key="PHP" value="9684" />
           <entry key="PLAIN_TEXT" value="13" />
           <entry key="SQL" value="1" />
           <entry key="htaccess" value="30" />
@@ -145,11 +151,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_html/choose_DB_driver.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_html/book.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="348">
+              <caret line="96" column="31" lean-forward="true" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public_html/DB_MySql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -164,33 +188,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/DB_PDO.php">
+        <entry file="file://$PROJECT_DIR$/public_html/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state relative-caret-position="135">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/Singleton.php">
+        <entry file="file://$PROJECT_DIR$/public_html/DB_Interface.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="5" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="47" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/aside.inc.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/author.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+            <state relative-caret-position="165">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -268,16 +278,17 @@
         <option value="$PROJECT_DIR$/public_html/all.php" />
         <option value="$PROJECT_DIR$/public_html/DB_Mysql.php" />
         <option value="$PROJECT_DIR$/public_html/choose_driver_type.php" />
-        <option value="$PROJECT_DIR$/public_html/config.php" />
         <option value="$PROJECT_DIR$/public_html/author.php" />
         <option value="$PROJECT_DIR$/public_html/genre.php" />
-        <option value="$PROJECT_DIR$/public_html/DB_Abstract.php" />
-        <option value="$PROJECT_DIR$/public_html/DB_MySql.php" />
-        <option value="$PROJECT_DIR$/public_html/choose_DB_driver.php" />
         <option value="$PROJECT_DIR$/public_html/main.inc.php" />
         <option value="$PROJECT_DIR$/public_html/DB.php" />
-        <option value="$PROJECT_DIR$/public_html/DB_PDO.php" />
         <option value="$PROJECT_DIR$/public_html/book.php" />
+        <option value="$PROJECT_DIR$/public_html/DB_Abstract.php" />
+        <option value="$PROJECT_DIR$/public_html/Singleton.php" />
+        <option value="$PROJECT_DIR$/public_html/DB_PDO.php" />
+        <option value="$PROJECT_DIR$/public_html/choose_DB_driver.php" />
+        <option value="$PROJECT_DIR$/public_html/DB_MySql.php" />
+        <option value="$PROJECT_DIR$/public_html/config.php" />
       </list>
     </option>
   </component>
@@ -300,6 +311,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -326,7 +338,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -528,18 +539,20 @@
       <workItem from="1548423623068" duration="1987000" />
       <workItem from="1548425863165" duration="546000" />
       <workItem from="1548491895109" duration="1690000" />
-      <workItem from="1548493834875" duration="619000" />
+      <workItem from="1548493834875" duration="1404000" />
+      <workItem from="1548495721939" duration="1748000" />
+      <workItem from="1548497570383" duration="958000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226205000" />
+    <option name="totallyTimeSpent" value="229696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48939642" visible="true" weight="0.20590582" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48939642" visible="true" weight="0.2122905" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -731,31 +744,7 @@
     <entry file="file://$PROJECT_DIR$/public_html/admin/.htpasswd">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public_html/Mysql.php" />
-    <entry file="file://$PROJECT_DIR$/public_html/DB_Abstract.php" />
-    <entry file="file://$PROJECT_DIR$/public_html/choose_DB_driver.php" />
-    <entry file="file://$PROJECT_DIR$/public_html/DB_MySql.php" />
-    <entry file="file://$PROJECT_DIR$/public_html/genre.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/Singleton.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public_html/aside.inc.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -780,13 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public_html/main.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -794,17 +776,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/DB_PDO.php">
+    <entry file="file://$PROJECT_DIR$/public_html/Singleton.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        <state relative-caret-position="194">
+          <caret line="47" column="7" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="47" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public_html/book.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="348">
+          <caret line="96" column="31" lean-forward="true" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/DB_PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="119" column="27" selection-start-line="119" selection-start-column="27" selection-end-line="119" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/choose_DB_driver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/DB_Interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/genre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/DB_MySql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -6,8 +6,8 @@
  * Time: 2:06 PM
  */
 
-$driverType = 'PDO';
-//$driverType = 'MySql';
+//$driverType = 'PDO';
+$driverType = 'MySql';
 
 function getDbConnection($driverType) {
     $className = "DB_" . $driverType;

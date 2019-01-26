@@ -7,10 +7,10 @@
  */
 
 require_once ('config.php');
-require_once ('DB_Abstract.php');
+require_once('DB_Interface.php');
 
 
-class DB_MySql extends DB_Abstract
+class DB_MySql implements DB_Interface
 {
 
     public function connect()

@@ -16,6 +16,5 @@ define('DB_USER', 'phpmyadmin');
 define('DB_PASS', '12122');
 define('DB_NAME', 'bookCatalogue');
 define('DB_HOST', 'localhost');
-define('DB_ENCODING', '');
-
-
+define('DB_PORT', '3306');
+define('DB_charset', 'UTF-8');
