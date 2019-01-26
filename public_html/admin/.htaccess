@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /var/www/lotusbookcatalogue.com/public_html/admin/.htpasswd
+Require valid-user
+
